@@ -1,2 +1,2 @@
 x <- 2
-print("Hello Galaxy!")
+print("Hello Universe!")
